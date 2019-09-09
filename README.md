@@ -1,16 +1,16 @@
-LedControl
+MAX6952
 ==========
-LedControl is an [Arduino](http://arduino.cc) library for MAX7219 and MAX7221 Led display drivers.
-The code also works with the [Teensy (3.1)](https://www.pjrc.com/teensy/)
+MAX6952 is an [Arduino](http://arduino.cc) library for MAX6952 Led display drivers.
+The code also works with the ESP32
 
 Documentation
 -------------
-Documentation for the library is on the [Github Project Pages](http://wayoda.github.io/LedControl/)
+Documentation for the library is not available. 
 
 Download
 --------
 The lastest binary version of the Library is always available from the 
-[LedControl Release Page](https://github.com/wayoda/LedControl/releases) 
+[MAX6952 Release Page](https://github.com/KaiKrause/MAX6952) 
 
 
 Install
